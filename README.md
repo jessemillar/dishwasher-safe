@@ -1,2 +1,11 @@
 # dishwasher-safe
-A list of our kitchen stuff that's safe to wash in the dishwasher
+
+|Item|Washing Instructions|
+|---|---|
+|Avocado cutter|Dishwasher|
+|Flat whisk|Dishwasher|
+|Good baking sheets|Dishwasher|
+|Good cooling rack|Dishwasher|
+|Hot chocolate pot|Hand wash|
+|Lemon juicer|Dishwasher|
+|Mint green World Market measuring cups|Dishwasher top rack only|
