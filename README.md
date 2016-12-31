@@ -1,5 +1,3 @@
-# dishwasher-safe
-
 |Item|Washing Instructions|
 |---|---|
 |Avocado cutter|Dishwasher|
